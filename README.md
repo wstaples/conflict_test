@@ -1,4 +1,4 @@
 conflict_test
 =============
 
-The color is blue
+The color is red
